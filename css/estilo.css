@@ -1,0 +1,55 @@
+  body{
+    
+  }
+
+  /* css do menu */
+
+table {
+  margin: 5%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 50%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+#dependentes{
+  height: auto;
+  width: 20%;
+  overflow: scroll;
+}
+
+  /* css do responsável */
+
+#div-resp{
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px 1px;
+  border: 1px solid silver;
+}
+
+  /* css do index e do cadastro */ 
+
+#login-css{
+  border: 1px solid silver;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px 1px;
+}
+
+#div-title{
+  border-bottom: 1px solid silver;
+  margin-bottom: 5px;
+}
+
+#logar{
+  margin-bottom: 5px;
+}
+
+#footer{
+  border-top: 1px solid silver;
+}
